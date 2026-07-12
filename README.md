@@ -179,7 +179,7 @@ Designed and provisioned end-to-end Microsoft Azure infrastructure for a UK-base
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__USERNAME-6a0dad?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/u/abhishek3758sharma/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhishek3758sharma-6a0dad?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/u/abhishek3758sharma/)
 <!-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR__USERNAME-4b0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e)](https://geeksforgeeks.org/user/YOUR_USERNAME)
 [![HackerRank](https://img.shields.io/badge/HackerRank-YOUR__USERNAME-6a0dad?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e)](https://hackerrank.com/YOUR_USERNAME)
 [![CodeChef](https://img.shields.io/badge/CodeChef-YOUR__USERNAME-4b0082?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e)](https://codechef.com/users/YOUR_USERNAME) -->
