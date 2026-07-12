@@ -667,6 +667,119 @@ If you find my repositories useful,
 </div>
 
 ---
+---
+
+# 🌟 Open Source Contributions
+
+<div align="center">
+
+> *Passionate about contributing to the open-source community and building scalable cloud-native solutions.*
+
+</div>
+
+### Areas of Interest
+
+- ☁️ Cloud Computing
+- 🚀 DevOps
+- 🏗 Infrastructure as Code
+- 🔄 CI/CD Automation
+- 🐳 Containerization
+- ☸️ Kubernetes
+- 🌍 Full Stack Development
+- 📦 Open Source Projects
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Status |
+|:----------|:------:|
+| ☁️ Azure Architecture | 🚀 |
+| 🏗 Terraform Advanced | 🚀 |
+| ☸️ Kubernetes | 📖 |
+| ⚙️ Azure DevOps | 🚀 |
+| 🔐 Microsoft Entra ID | 📖 |
+| 📊 Azure Monitor | 📖 |
+| 🔑 Azure Key Vault | 📖 |
+| 🌐 Azure Landing Zone | 📖 |
+
+</div>
+
+---
+
+# 📈 2026 Goals
+
+- ✅ Become Microsoft Azure Certified
+- ✅ Master Terraform Modules
+- ✅ Learn Kubernetes & AKS
+- ✅ Build Enterprise Azure Infrastructure
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ DSA Problems
+- ✅ Build 10+ Production Projects
+- ✅ Secure a Cloud / DevOps Engineer Role
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- ☁️ Azure Projects
+- 🚀 DevOps Automation
+- 🏗 Terraform Modules
+- 🐳 Docker & Kubernetes
+- 🌐 Full Stack Applications
+- 💻 Open Source Projects
+
+---
+
+# ☕ Fun Facts
+
+- 💙 Coffee + Linux = Productivity
+- ☁️ Terraform is my favorite IaC tool
+- 🚀 I enjoy automating repetitive tasks
+- 📚 Always learning new cloud technologies
+- 🎯 Goal: Build scalable and secure cloud infrastructure
+
+---
+
+# 📬 Reach Me
+
+<div align="center">
+
+<a href="mailto:abhishek3758sharma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abhishek3758sharma">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhishek3758sharma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/abhishek3758sharma/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing+Together!;See+You+Again!"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:1A1A2E&height=180&section=footer"/>
+
+</div>
 
 # 💜 Thanks for Visiting
 
