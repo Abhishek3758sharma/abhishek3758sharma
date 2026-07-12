@@ -372,6 +372,148 @@ https://github.com/abhishek3758sharma/terraform-azure-infrastructure
 https://github.com/abhishek3758sharma/DSA
 
 </details>
+---
+
+# 💼 Professional Experience
+
+## DevOps Intern | DevOps Insiders
+
+**📅 Duration:** Dec 2025 – Jun 2026
+
+Worked on Microsoft Azure infrastructure automation and CI/CD pipelines while following Infrastructure as Code (IaC) best practices.
+
+### Responsibilities
+
+- ☁️ Provisioned Azure infrastructure using Terraform
+- 🏗️ Developed reusable Terraform modules
+- 🚀 Built CI/CD pipelines using GitHub Actions & Azure DevOps
+- 🐳 Containerized applications using Docker
+- 🌐 Configured Azure Networking (VNet, NSG, Public IP)
+- 🔐 Implemented Azure Bastion for secure VM access
+- ⚖️ Configured Azure Load Balancer & Application Gateway
+- 💾 Managed Azure Storage Accounts & Blob Containers
+- 📊 Monitored infrastructure using Azure Monitor
+- 📦 Managed Terraform Remote State
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|:-----------|:------------|
+| ☁️ Azure Cloud | Built complete Azure Infrastructure using Terraform |
+| 🚀 DevOps | Automated deployments with GitHub Actions |
+| 🏗️ Infrastructure as Code | Created reusable Terraform modules |
+| 💻 Full Stack | Developed cloud-native web applications |
+| 🎯 DSA | Solved Data Structures & Algorithms problems in Java |
+| 👨‍💼 Leadership | Club Head - Stage Management Team |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| Provider | Certification |
+|:---------|:--------------|
+| Oracle | Database Programming with SQL |
+| MySQL | Database Management |
+| Git & GitHub | Version Control |
+| Terraform | Infrastructure as Code |
+| Microsoft Azure | Cloud Learning |
+| DevOps | CI/CD Fundamentals |
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/abhishek3758sharma/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/abhishek3758sharma">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek3758sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=abhishek3758sharma&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek3758sharma&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek3758sharma&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek3758sharma&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhishek3758sharma/abhishek3758sharma/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek3758sharma&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek3758sharma&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek3758sharma&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek3758sharma&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek3758sharma&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
 
 ---
 🐳 Docker Ready Infrastructure
