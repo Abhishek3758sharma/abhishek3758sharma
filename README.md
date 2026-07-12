@@ -157,3 +157,187 @@ My long-term goal is to become a **Cloud Solutions Architect** and contribute to
 </div>
 
 ---
+---
+
+# ☁️ Cloud & DevOps Expertise
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek3758sharma&theme=tokyonight" width="100%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,git,linux,bash&perline=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏗️ Azure Infrastructure using Terraform Modules
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### ☁️ Compute
+
+<img src="https://img.shields.io/badge/Azure-Compute-6A0DAD?style=for-the-badge"/>
+
+✔ Azure Linux VM
+
+✔ Azure Windows VM
+
+✔ Azure Bastion
+
+✔ Public IP
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Networking
+
+<img src="https://img.shields.io/badge/Azure-Networking-4B0082?style=for-the-badge"/>
+
+✔ Virtual Network
+
+✔ Subnet
+
+✔ Network Security Group
+
+✔ Load Balancer
+
+✔ Application Gateway
+
+</td>
+
+<td width="33%" align="center">
+
+### 📦 Storage
+
+<img src="https://img.shields.io/badge/Azure-Storage-7B2CBF?style=for-the-badge"/>
+
+✔ Storage Account
+
+✔ Blob Container
+
+✔ Remote State
+
+✔ Terraform Backend
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## ⚙️ Terraform Module Architecture
+
+</div>
+
+```text
+terraform-azure-infrastructure
+│
+├── modules
+│   ├── resource-group
+│   ├── storage-account
+│   ├── blob-container
+│   ├── virtual-network
+│   ├── subnet
+│   ├── network-security-group
+│   ├── public-ip
+│   ├── linux-vm
+│   ├── windows-vm
+│   ├── load-balancer
+│   ├── application-gateway
+│   ├── bastion
+│   └── app-service
+│
+├── environments
+│   ├── dev
+│   ├── test
+│   └── production
+│
+├── provider.tf
+├── backend.tf
+├── variables.tf
+├── outputs.tf
+└── main.tf
+```
+
+---
+
+<div align="center">
+
+# 📊 Azure Services
+
+| Azure Resource | Terraform Module | Status |
+|:---------------|:----------------:|:------:|
+| ☁️ Resource Group | ✅ | 🟢 |
+| 🌐 Virtual Network | ✅ | 🟢 |
+| 🔀 Subnet | ✅ | 🟢 |
+| 🛡️ Network Security Group | ✅ | 🟢 |
+| 🌍 Public IP | ✅ | 🟢 |
+| 🖥️ Linux VM | ✅ | 🟢 |
+| 🪟 Windows VM | ✅ | 🟢 |
+| ⚖️ Azure Load Balancer | ✅ | 🟢 |
+| 🚪 Azure Application Gateway | ✅ | 🟢 |
+| 🔐 Azure Bastion | ✅ | 🟢 |
+| 💾 Storage Account | ✅ | 🟢 |
+| 📦 Blob Container | ✅ | 🟢 |
+| 🚀 Azure App Service | 🚧 | 🟡 |
+| 📊 Azure Monitor | 📚 | 🔵 |
+| 🔑 Azure Key Vault | 📚 | 🔵 |
+| 🆔 Microsoft Entra ID | 📚 | 🔵 |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Technologies
+
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,git,linux,bash,java,react,ts,postgres,supabase&perline=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Engineering Highlights
+
+🏗️ Modular Terraform Architecture
+
+☁️ Azure Cloud Infrastructure
+
+⚙️ Infrastructure as Code (IaC)
+
+🚀 CI/CD with GitHub Actions
+
+🔐 Secure Networking with NSG & Bastion
+
+⚖️ Azure Load Balancer
+
+🌍 Azure Application Gateway
+
+💾 Remote State Backend
+
+🐳 Docker Ready Infrastructure
+
+📦 Reusable Terraform Modules
+
+</div>
+
+---
