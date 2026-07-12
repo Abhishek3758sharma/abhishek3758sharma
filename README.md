@@ -300,7 +300,7 @@ Modern React-based plant shopping website focused on responsive UI and clean fro
 
 ## DevOps Intern — DevOps Insiders
 
-**Duration:** Jan 2025 – Jun 2025
+**Duration:** Dec 2025 – Jun 2026
 
 Worked on Microsoft Azure infrastructure automation and CI/CD pipelines while following Infrastructure as Code best practices.
 
