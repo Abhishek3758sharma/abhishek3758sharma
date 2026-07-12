@@ -89,251 +89,71 @@ My long-term goal is to become a **Cloud Solutions Architect** and contribute to
 
 ---
 
+---
+
 # ☁️ Cloud & DevOps Expertise
 
-| Domain | Level | Description |
-# 🚀 Featured Projects
+<div align="center">
 
-<details open>
-<summary><b>🧺 Green Eco Drycleaners — Cloud-Native Laundry Management Platform</b></summary>
+<table>
+<tr>
+<td width="33%">
 
-<br>
+### 🚀 Infrastructure as Code
 
-A production-oriented laundry management platform built using **React**, **TypeScript**, **Supabase**, **Microsoft Azure**, and **Terraform**. The application provides separate customer and admin portals with cloud-native deployment practices.
+<img src="https://img.shields.io/badge/Level-Advanced-6A0DAD?style=for-the-badge"/>
 
-| Attribute | Details |
-|-----------|----------|
-| **Category** | Full Stack SaaS |
-| **Frontend** | React, TypeScript, Tailwind CSS |
-| **Backend** | Supabase, PostgreSQL |
-| **Cloud** | Microsoft Azure |
-| **Infrastructure** | Terraform |
-| **Authentication** | Supabase Auth |
-| **Deployment** | Azure App Service |
-| **CI/CD** | GitHub Actions |
-| **Security** | RBAC Authentication |
-| **Status** | 🟢 Active Development |
-| **Repository** | https://github.com/abhishek3758sharma/green-eco-drycleaners |
+**Skills**
 
-### ✨ Features
+- Terraform
+- Azure Resources
+- Remote State
+- Modular IaC
 
-- Customer Dashboard
-- Admin Dashboard
-- Order Tracking
-- Payment Verification
-- Coupon Management
-- Responsive UI
-- Azure Deployment
-- Terraform Infrastructure
-- Cloud Storage
-- Role Based Authentication
+</td>
 
-### 📈 Engineering Highlights
+<td width="33%">
 
-- Infrastructure managed using Terraform
-- Secure authentication with Supabase
-- Azure App Service deployment
-- Modular folder architecture
-- Mobile responsive interface
-- Cloud-first architecture
+### ⚡ CI/CD
 
-</details>
+<img src="https://img.shields.io/badge/Level-Advanced-4B0082?style=for-the-badge"/>
 
----
+**Tools**
 
-<details>
-
-<summary><b>☁️ Azure Infrastructure using Terraform</b></summary>
-
-<br>
-
-Enterprise-style Infrastructure as Code project demonstrating Microsoft Azure provisioning using Terraform.
-
-| Attribute | Details |
-|-----------|----------|
-| **Platform** | Microsoft Azure |
-| **IaC** | Terraform |
-| **Networking** | VNet, Subnet, NSG |
-| **Compute** | Linux VM |
-| **Storage** | Azure Storage |
-| **Load Balancer** | Azure Load Balancer |
-| **Security** | Azure Bastion |
-| **Remote State** | Azure Storage Backend |
-| **Repository** | https://github.com/abhishek3758sharma/terraform-azure-infrastructure |
-
-### Resources Created
-
-- Resource Group
-- Storage Account
-- Blob Container
-- Virtual Network
-- Subnet
-- Network Security Group
-- Public IP
-- Linux Virtual Machine
-- Load Balancer
-- Azure Bastion
-
-### Key Learnings
-
-- Infrastructure as Code
-- State Management
-- Modular Terraform
-- Azure Networking
-- Secure Infrastructure
-
-</details>
-
----
-
-<details>
-
-<summary><b>⚙️ Azure DevOps CI/CD Pipeline</b></summary>
-
-<br>
-
-Automated CI/CD pipeline designed using Azure DevOps and GitHub Actions for building and deploying cloud-native applications.
-
-| Attribute | Details |
-|-----------|----------|
-| **Platform** | Azure DevOps |
-| **CI/CD** | GitHub Actions |
-| **Containerization** | Docker |
-| **Infrastructure** | Terraform |
-| **Deployment** | Azure |
-| **Repository** | https://github.com/abhishek3758sharma/terraform-azure-infrastructure |
-
-### Pipeline Stages
-
-```text
-Code
-   ↓
-Build
-   ↓
-Test
-   ↓
-Docker Build
-   ↓
-Push Image
-   ↓
-Terraform Apply
-   ↓
-Deploy to Azure
-```
-
-### Highlights
-
-- Automated Deployment
-- Zero Manual Infrastructure
-- Version Controlled Infrastructure
-- Continuous Delivery
-- Infrastructure Validation
-
-</details>
-
----
-
-<details>
-
-<summary><b>📚 DSA in Java</b></summary>
-
-<br>
-
-Comprehensive Data Structures and Algorithms repository containing interview preparation questions, university ETE notes, and Java implementations.
-
-| Attribute | Details |
-|-----------|----------|
-| **Language** | Java |
-| **Difficulty** | Easy → Hard |
-| **Topics** | Arrays, Strings, Linked Lists, Trees, Graphs, DP |
-| **Repository** | https://github.com/abhishek3758sharma/DSA |
-
-### Covered Topics
-
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Binary Trees
-- BST
-- Heap
-- Graph
-- Dynamic Programming
-- Backtracking
-- Sliding Window
-- Two Pointer
-- Prefix Sum
-- Binary Search
-
-</details>
-
----
-
-<details>
-
-<summary><b>🌱 Plantify</b></summary>
-
-<br>
-
-Modern React-based plant shopping website focused on responsive UI and clean frontend engineering.
-
-| Attribute | Details |
-|-----------|----------|
-| **Frontend** | React |
-| **Styling** | CSS |
-| **Deployment** | GitHub Pages |
-| **Repository** | https://github.com/abhishek3758sharma/plantify |
-
-### Features
-
-- Responsive Design
-- Product Cards
-- Clean UI
-- Mobile Friendly
-
-</details>
-
----
-
-# 💼 Professional Experience
-
-## DevOps Intern — DevOps Insiders
-
-**Duration:** Dec 2025 – Jun 2026
-
-Worked on Microsoft Azure infrastructure automation and CI/CD pipelines while following Infrastructure as Code best practices.
-
-### Responsibilities
-
-- Azure Infrastructure Provisioning
-- Terraform Modules
-- Azure DevOps Pipelines
-- Docker Containerization
-- Azure Storage
-- Azure Networking
-- Microsoft Entra ID
-- Azure Monitor
 - GitHub Actions
+- Azure DevOps
+- Docker
+- Automation
 
-### Technologies
+</td>
 
-`Azure`
-`Terraform`
-`Docker`
-`GitHub Actions`
-`Azure DevOps`
-`Linux`
-`Git`
-`Bash`
+<td width="33%">
 
----
-|:------|:------:|:------------|
-| Infrastructure as Code | ⭐⭐⭐⭐☆ | Terraform Modules, Azure Resources |
-| Cloud Architecture | ⭐⭐⭐⭐☆ | Azure VNets, NSG, Bastion, Storage |
-| CI/CD | ⭐⭐⭐⭐☆ | Azure DevOps + GitHub Actions |
-| Containers | ⭐⭐⭐☆☆ | Docker |
-| Identity | ⭐⭐⭐☆☆ | Microsoft Entra ID |
-| Monitoring | ⭐⭐⭐☆☆ | Azure Monitor |
+### ☁️ Azure Cloud
+
+<img src="https://img.shields.io/badge/Level-Intermediate-7B2CBF?style=for-the-badge"/>
+
+**Services**
+
+- VNet
+- NSG
+- Bastion
+- Storage
+- App Service
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,linux,bash,git&perline=7"/>
+
+</div>
 
 ---
