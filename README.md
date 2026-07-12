@@ -523,3 +523,157 @@ Worked on Microsoft Azure infrastructure automation and CI/CD pipelines while fo
 </div>
 
 ---
+---
+
+# 🎯 Current Focus
+
+```yaml
+Current:
+  Learning:
+    - Microsoft Azure
+    - Terraform
+    - Kubernetes
+    - Docker
+    - GitHub Actions
+    - System Design
+    - Spring Boot
+    - React
+
+Building:
+    - Azure Enterprise Infrastructure
+    - Terraform Module Library
+    - Cloud Native Applications
+    - CI/CD Pipelines
+    - DevOps Portfolio
+
+Exploring:
+    - Azure Kubernetes Service (AKS)
+    - Azure Monitor
+    - Azure Key Vault
+    - Microsoft Entra ID
+    - Azure Landing Zone
+
+Career Goal:
+    - Cloud Engineer
+    - DevOps Engineer
+    - Site Reliability Engineer
+    - Software Engineer
+
+Open To:
+    - Internship
+    - Full-Time Roles
+    - Freelance Projects
+    - Open Source Contributions
+```
+
+---
+
+# 🛣️ 2026 Learning Roadmap
+
+<div align="center">
+
+| Technology | Progress |
+|:-----------|:--------:|
+| ☁️ Microsoft Azure | ██████████ 90% |
+| 🏗 Terraform | ██████████ 90% |
+| 🐳 Docker | ████████░░ 80% |
+| ⚙️ GitHub Actions | ████████░░ 80% |
+| ☸️ Kubernetes | ██████░░░░ 60% |
+| 🌍 Linux | █████████░ 85% |
+| ☕ Java | █████████░ 85% |
+| 🌱 Spring Boot | ███████░░░ 70% |
+| ⚛ React | ████████░░ 80% |
+| 🗄 PostgreSQL | ████████░░ 80% |
+| 💻 DSA | ████████░░ 80% |
+| 🏛 System Design | █████░░░░░ 50% |
+
+</div>
+
+---
+
+# 🌍 Let's Connect
+
+<div align="center">
+
+<a href="mailto:abhishek3758sharma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abhishek3758sharma">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhishek3758sharma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/abhishek3758sharma/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ❤️ Support My Work
+
+<div align="center">
+
+If you find my repositories useful,
+
+⭐ **Star my repositories**
+
+🍴 **Fork them**
+
+🤝 **Contribute through Pull Requests**
+
+</div>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+> **"Automation isn't about replacing people. It's about empowering engineers to build faster, safer, and smarter."**
+
+</div>
+
+---
+
+# 📌 Pinned Repositories
+
+<div align="center">
+
+| Repository | Description |
+|:----------|:------------|
+| ☁️ terraform-azure-infrastructure | Enterprise Azure Infrastructure using Terraform |
+| 🚀 terraform-daily-practice | Daily Terraform on Azure |
+| 🧺 green-eco-drycleaners | Cloud Native Laundry Platform |
+| 💻 DSA | Java Interview Preparation |
+| 🌱 Plantify | React Frontend Project |
+| ⚡ Byte-Me | Development Project |
+
+</div>
+
+---
+
+# 📊 Visitor Counter
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=abhishek3758sharma&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+# 💜 Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to star my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:1A1A2E&height=170&section=footer"/>
+
+</div>
