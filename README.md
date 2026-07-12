@@ -159,91 +159,71 @@ My long-term goal is to become a **Cloud Solutions Architect** and contribute to
 ---
 ---
 
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,git,linux,bash,java,python,react,ts,postgres,supabase&theme=dark"/>
+
+</div>
+
+---
+
 # ☁️ Cloud & DevOps Expertise
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek3758sharma&theme=tokyonight" width="100%"/>
 
-<br><br>
+</div>
 
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,git,linux,bash&perline=7"/>
+---
+
+# 🏗 Azure Infrastructure using Terraform Modules
+
+<div align="center">
+
+| Infrastructure | Status |
+|:---------------|:------:|
+| 📦 Modular Terraform Architecture | ✅ |
+| ☁️ Infrastructure as Code (IaC) | ✅ |
+| 🔄 Remote State Backend | ✅ |
+| 🌎 Multi-Environment Deployment | ✅ |
+| ⚙️ Reusable Terraform Modules | ✅ |
+| 🚀 CI/CD Ready Infrastructure | ✅ |
 
 </div>
 
 ---
 
+# ☁️ Azure Services
+
 <div align="center">
 
-# 🏗️ Azure Infrastructure using Terraform Modules
+| Azure Resource | Terraform Module | Status |
+|:---------------|:----------------:|:------:|
+| ☁️ Resource Group | ✅ | 🟢 |
+| 🌐 Virtual Network | ✅ | 🟢 |
+| 🔀 Subnet | ✅ | 🟢 |
+| 🛡️ Network Security Group | ✅ | 🟢 |
+| 🌍 Public IP | ✅ | 🟢 |
+| 🖥️ Linux Virtual Machine | ✅ | 🟢 |
+| 🪟 Windows Virtual Machine | ✅ | 🟢 |
+| ⚖️ Azure Load Balancer | ✅ | 🟢 |
+| 🚪 Azure Application Gateway | ✅ | 🟢 |
+| 🔐 Azure Bastion | ✅ | 🟢 |
+| 💾 Azure Storage Account | ✅ | 🟢 |
+| 📦 Blob Container | ✅ | 🟢 |
+| 🚀 Azure App Service | 🚧 | 🟡 |
+| 📊 Azure Monitor | 📚 | 🔵 |
+| 🔑 Azure Key Vault | 📚 | 🔵 |
+| 🆔 Microsoft Entra ID | 📚 | 🔵 |
 
 </div>
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-### ☁️ Compute
-
-<img src="https://img.shields.io/badge/Azure-Compute-6A0DAD?style=for-the-badge"/>
-
-✔ Azure Linux VM
-
-✔ Azure Windows VM
-
-✔ Azure Bastion
-
-✔ Public IP
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Networking
-
-<img src="https://img.shields.io/badge/Azure-Networking-4B0082?style=for-the-badge"/>
-
-✔ Virtual Network
-
-✔ Subnet
-
-✔ Network Security Group
-
-✔ Load Balancer
-
-✔ Application Gateway
-
-</td>
-
-<td width="33%" align="center">
-
-### 📦 Storage
-
-<img src="https://img.shields.io/badge/Azure-Storage-7B2CBF?style=for-the-badge"/>
-
-✔ Storage Account
-
-✔ Blob Container
-
-✔ Remote State
-
-✔ Terraform Backend
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
-<div align="center">
-
-## ⚙️ Terraform Module Architecture
-
-</div>
+# ⚙️ Terraform Project Structure
 
 ```text
 terraform-azure-infrastructure
@@ -268,72 +248,132 @@ terraform-azure-infrastructure
 │   ├── test
 │   └── production
 │
-├── provider.tf
 ├── backend.tf
+├── provider.tf
 ├── variables.tf
 ├── outputs.tf
+├── terraform.tfvars
 └── main.tf
 ```
 
 ---
 
+# 💡 Engineering Highlights
+
 <div align="center">
 
-# 📊 Azure Services
-
-| Azure Resource | Terraform Module | Status |
-|:---------------|:----------------:|:------:|
-| ☁️ Resource Group | ✅ | 🟢 |
-| 🌐 Virtual Network | ✅ | 🟢 |
-| 🔀 Subnet | ✅ | 🟢 |
-| 🛡️ Network Security Group | ✅ | 🟢 |
-| 🌍 Public IP | ✅ | 🟢 |
-| 🖥️ Linux VM | ✅ | 🟢 |
-| 🪟 Windows VM | ✅ | 🟢 |
-| ⚖️ Azure Load Balancer | ✅ | 🟢 |
-| 🚪 Azure Application Gateway | ✅ | 🟢 |
-| 🔐 Azure Bastion | ✅ | 🟢 |
-| 💾 Storage Account | ✅ | 🟢 |
-| 📦 Blob Container | ✅ | 🟢 |
-| 🚀 Azure App Service | 🚧 | 🟡 |
-| 📊 Azure Monitor | 📚 | 🔵 |
-| 🔑 Azure Key Vault | 📚 | 🔵 |
-| 🆔 Microsoft Entra ID | 📚 | 🔵 |
+| Feature | Description |
+|:---------|:------------|
+| 🏗 Infrastructure as Code | Azure Infrastructure automated using Terraform Modules |
+| 🔄 Remote State | Azure Storage Backend for Terraform State |
+| ⚙️ CI/CD | GitHub Actions + Azure DevOps |
+| 🌐 Networking | VNet, Subnet, NSG, Public IP |
+| ⚖️ Load Balancing | Azure Load Balancer |
+| 🚪 Traffic Management | Azure Application Gateway |
+| 🔐 Secure Access | Azure Bastion |
+| ☁️ Compute | Linux VM & Windows VM |
+| 💾 Storage | Azure Storage + Blob Container |
+| 📦 Modular Design | Reusable Terraform Modules |
+| 🚀 Cloud Ready | Production-style Azure Infrastructure |
 
 </div>
 
 ---
 
-<div align="center">
+# 🚀 Featured Projects
 
-## 🚀 Technologies
+<details open>
 
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,git,linux,bash,java,react,ts,postgres,supabase&perline=6"/>
+<summary><b>🧺 Green Eco Drycleaners — Cloud-Native Laundry Management Platform</b></summary>
 
-</div>
+### Tech Stack
+
+React • TypeScript • Tailwind CSS • Supabase • PostgreSQL • Azure • Terraform
+
+### Features
+
+- Customer Portal
+- Admin Dashboard
+- Order Tracking
+- Coupon Management
+- Payment Verification
+- Responsive UI
+- Azure Deployment
+- Terraform Infrastructure
+- Cloud Storage
+- Role-Based Authentication
+
+**Repository**
+
+https://github.com/abhishek3758sharma/green-eco-drycleaners
+
+</details>
 
 ---
 
-<div align="center">
+<details>
 
-## 📈 Engineering Highlights
+<summary><b>☁️ Azure Infrastructure using Terraform</b></summary>
 
-🏗️ Modular Terraform Architecture
+### Azure Resources
 
-☁️ Azure Cloud Infrastructure
+- Resource Group
+- Storage Account
+- Blob Container
+- Virtual Network
+- Subnet
+- Network Security Group
+- Public IP
+- Linux VM
+- Windows VM
+- Azure Bastion
+- Azure Load Balancer
+- Azure Application Gateway
 
-⚙️ Infrastructure as Code (IaC)
+### Highlights
 
-🚀 CI/CD with GitHub Actions
+- Infrastructure as Code
+- Modular Terraform
+- Remote State
+- Production-ready Architecture
 
-🔐 Secure Networking with NSG & Bastion
+**Repository**
 
-⚖️ Azure Load Balancer
+https://github.com/abhishek3758sharma/terraform-azure-infrastructure
 
-🌍 Azure Application Gateway
+</details>
 
-💾 Remote State Backend
+---
 
+<details>
+
+<summary><b>📚 DSA in Java</b></summary>
+
+### Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stack
+- Queue
+- Trees
+- BST
+- Heap
+- Graph
+- Dynamic Programming
+- Backtracking
+- Sliding Window
+- Prefix Sum
+- Two Pointer
+- Binary Search
+
+**Repository**
+
+https://github.com/abhishek3758sharma/DSA
+
+</details>
+
+---
 🐳 Docker Ready Infrastructure
 
 📦 Reusable Terraform Modules
